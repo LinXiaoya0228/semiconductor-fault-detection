@@ -7,7 +7,7 @@
 
 ## 🎥 Project Demo
 
-[**▶️ Watch the System Demo Video Here**](LINK_TO_YOUR_VIDEO) *(Replace with your video link)*
+[**▶️ Watch the System Demo Video Here**](LINK_TO_YOUR_VIDEO) 
 
 ---
 
