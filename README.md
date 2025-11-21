@@ -8,7 +8,7 @@
 ## 🎥 Project Demo
 
 [**▶️ Watch the System Demo Video Here**](LINK_TO_YOUR_VIDEO) 
-
+[![Preview of Hybrid Fault Detection Model (Click for Full 30s Video)](assets/FDCDataExtractor_brief.gif)](https://youtu.be/bb-xxfo6oe4)
 ---
 
 ## 📌 The Challenge
