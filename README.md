@@ -89,8 +89,4 @@ The model achieved near-perfect precision, eliminating false alarms which is cri
 
 ## 📜 License
 This documentation is shared under the MIT License. The underlying implementation and data remain the property of GlobalFoundries.
-* **Machine Learning:** Scikit-Learn (One-Class SVM), PyTorch (LSTM/CNN Benchmarks), Optuna (Hyperparameter Tuning)
-* **Visualization:** Matplotlib, Seaborn
 
-## 📜 License
-This documentation is shared under the MIT License. The underlying implementation and data remain the property of GlobalFoundries.
