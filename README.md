@@ -1,7 +1,5 @@
 # Fault Detection in Semiconductor Manufacturing: A Hybrid Guardband-OC-SVM Approach
 
-**Author:** Lin Xiaoya  
-**Context:** Internship Project (GlobalFoundries - TPC Team)
 
 > **⚠️ Note:** This repository serves as a portfolio demonstration of the methodology and results. Due to Non-Disclosure Agreements (NDA) and Intellectual Property protections, the proprietary source code and raw production data cannot be shared. This repository uses synthetic data to demonstrate the logic.
 
